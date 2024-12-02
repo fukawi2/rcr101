@@ -79,7 +79,7 @@ Unit accreditation every 4yrs.
 
 # Road Crash Rescue Arrangements Victoria
 
-TODO: INSERT IMAGE HERE
+![width:800px](img/semp-control-agencies.png)
 
 Liaise with their “Police Forward Command” (PFC).
 
@@ -164,7 +164,7 @@ All first responders should Double Glove.
 
 # Scene Setup
 
-TODO: Insert scene circles image here
+![width:800px](img/scene-circles.png)
 
 ---
 
@@ -172,7 +172,7 @@ TODO: Insert scene circles image here
 
 Rescue Sheets provides first responders with colour-coded illustrations highlighting the location of features such high-voltage batteries, fuel tanks, airbag inflators and seatbelt pre-tensioners.
 
-TODO: INSERT QR CODE IMAGE HERE
+![width:800px](img/ancap-download-qr.png)
 
 <!--
 Free app – scan the QR code to go to website.
