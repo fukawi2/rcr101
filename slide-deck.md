@@ -23,6 +23,14 @@ THIS PRESENTATION DOES NOT CONTAIN GRAPHIC MATERIAL
 - Rescue Actions
 - Closing
 
+<--
+Welcome
+Thanks for having us
+Thanks for coming
+Administration: Rescue is still online. We will respond if paged.
+I can only speak to our policies and processes, not other organisations.
+-->
+
 ---
 
 # Wandin Rescue
@@ -57,6 +65,10 @@ Unit accreditation every 4yrs.
 - We are not a Fire Brigade
   - Ignore the CFA badges on our trucks and uniform.
 
+<!--
+“Support” Rescue Units are NOT to effect rescue unless AV triage the patient as time-critical.
+-->
+
 ---
 
 # Road Crash Rescue Arrangements Victoria
@@ -70,6 +82,19 @@ Unit accreditation every 4yrs.
 TODO: INSERT IMAGE HERE
 
 Liaise with their “Police Forward Command” (PFC).
+
+<!--
+Establish an IEMT with VicPol, CFA and Rescue.
+AV if possible – may have to wait for Health Commander.
+
+We will focus on the extrication, especially if short crewed.
+
+We want the local brigade to manage overall scene, including taking on Incident Controller.
+
+Police Forward Command (PFC)
+Ask the VicPol members who is taking that role.
+It may change as more senior members arrive (eg, Highway Patrol).
+-->
 
 ---
 
@@ -97,6 +122,17 @@ Liaise with their “Police Forward Command” (PFC).
 > “An attended charged hose line capable of 360° movement around any vehicles with trapped patients”; AND
 > “Have ready access to a dry chemical fire extinguisher”
 
+!<--
+Prefer a 38 over a live reel.
+
+Quotes are from Road Crash Rescue Arrangements 2023
+
+What do you do if a fire starts?
+You’re now the control agency.
+Protect crews and patient.
+Put fire out LAST.
+-->
+
 ---
 
 # Fire Brigade Scene Setup
@@ -115,6 +151,15 @@ Liaise with their “Police Forward Command” (PFC).
 ## Establish Action Zone:
 - Inner Work Area: 5m around each accident vehicle.
 
+<!--
+Discuss hazards:
+fuel/oil, fire, batteries, power lines, dogs/animals, angry patients/bystanders, fallen trees, biological
+
+SPADRA: Safe Person Approach, Dynamic Risk Assessment
+
+All first responders should Double Glove.
+-->
+
 ---
 
 # Scene Setup
@@ -128,6 +173,12 @@ TODO: Insert scene circles image here
 Rescue Sheets provides first responders with colour-coded illustrations highlighting the location of features such high-voltage batteries, fuel tanks, airbag inflators and seatbelt pre-tensioners.
 
 TODO: INSERT QR CODE IMAGE HERE
+
+<!--
+Free app – scan the QR code to go to website.
+
+We recommend every first responder downloads and has it available, even if no rescue is required.
+-->
 
 ---
 
@@ -154,6 +205,14 @@ TODO: INSERT QR CODE IMAGE HERE
   - Method of Entrapment
   - Vehicle Type(s)
     - Especially for unusual/exotic or alternate fuel vehicles (EV/Hybrid, Hydrogen).
+
+<!--
+Important to us for crew tasking and resource planning:
+Do we need a second rescue?
+Should we cancel our Rescue Support?
+
+Important to AV – they may expedite HEMS response based on your assessment.
+-->
 
 ---
 
@@ -230,6 +289,12 @@ Rescue will create 3 additional zones:
 
 Available fire brigade crew can stand in the Personnel Area to be tasked when additional hands are required.
 
+<!--
+If you’re not comfortable, say something and we will reassign.
+
+Don’t say “yes” then not do it instead.
+-->
+
 ---
 
 # Rescue Makeup
@@ -273,3 +338,13 @@ Our goal is positive patient outcomes.
 We are here to help you and help the patient.
 
 Use us!
+
+Questions?
+
+<!--
+Group Q&A Session
+
+Next: Vehicle/Equipment:
+Split into fire brigade members into smaller groups
+Assign groups to other rescue crew.
+-->
