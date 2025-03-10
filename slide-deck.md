@@ -161,11 +161,18 @@ Establish IEMT with VicPol “Police Forward Command” (PFC).
 
 - Identify Hazards
 - **What do you consider hazards?**
-- Hierarchy of Control
+- Hierarchy of Control:
   - Eliminate
   - Reduce (_Substitute_ or _Isolate_)
   - Control
   - PPE/PPC
+
+<!--
+Discuss hazards:
+fuel/oil, fire, batteries, power lines, dogs/animals, angry patients/bystanders, fallen trees, biological
+
+All first responders should Double Glove.
+-->
 
 ---
 
@@ -179,26 +186,17 @@ Establish IEMT with VicPol “Police Forward Command” (PFC).
 
 ---
 
-# First Aid
+## First Aid
 
 - If possible
 - Make contact with patient and establish relationship
 
-<!--
-Discuss hazards:
-fuel/oil, fire, batteries, power lines, dogs/animals, angry patients/bystanders, fallen trees, biological
-
-All first responders should Double Glove.
--->
-
----
-
-# Traffic Control
+## Traffic Control
 
 - Protect work zone
 - Preserve access for Ambulance and Rescue
 
-# Establish Action Zone
+## Establish Action Zone
 
 - Inner Work Area: 5m around each accident vehicle
 - This is the space for charged line
@@ -207,7 +205,7 @@ All first responders should Double Glove.
 
 # Scene Setup
 
-![width:800px](img/scene-circles.png)
+![width:960px](img/scene-circles.png)
 
 ---
 
