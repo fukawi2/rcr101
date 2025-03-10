@@ -68,7 +68,7 @@ style: |
 
 ---
 
-# Road Crash Rescue Arrangements Victoria
+<!-- _header: Road Crash Rescue Arrangements Victoria -->
 
 - Wandin is a _“Principal Rescue Provider”_
   - Pumper Rescues (eg, FRV) are _“Support Rescue Providers”_
@@ -80,35 +80,19 @@ style: |
 
 ---
 
-# ANCAP Rescue App
+<!-- _header: Road Crash Rescue Arrangements Victoria -->
 
-![width:512px float-right](img/ancap-download-qr.png)
-
-Free app for IOS and Android provides First Responders with colour-coded illustrations highlighting the location of
-vehicle features such as:
-
-- Batteries (Low and High Voltage)
-- Airbag inflators
-- Seatbelt pre-tensioners
-- Fuel tanks
-
-<!--
-We recommend every first responder downloads and has it available, even if no rescue is required.
--->
+# Who's in charge at a road crash?
 
 ---
 
-# Road Crash Rescue Arrangements Victoria
+<!-- _header: Road Crash Rescue Arrangements Victoria -->
 
-## Who's in charge at a road crash?
+# “Police Forward Command” (PFC)
 
----
-
-# Road Crash Rescue Arrangements Victoria
+Establish Incident Emergency Management Team (IEMT) with PFC
 
 ![width:800px](img/semp-control-agencies.png)
-
-Establish IEMT with VicPol “Police Forward Command” (PFC).
 
 <!--
 - AV if possible – may have to wait for Health Commander.
@@ -121,9 +105,9 @@ Establish IEMT with VicPol “Police Forward Command” (PFC).
 
 ---
 
-# Road Crash Rescue Arrangements Victoria
+<!-- _header: Road Crash Rescue Arrangements Victoria -->
 
-## Role of other emergency service personnel:
+# Role of other emergency service personnel:
 
 > ...ensure safety of the area, appropriate access and egress for the RCR Principal Provider and Ambulance … for timely access to the patient.
 >
@@ -175,12 +159,30 @@ All first responders should Double Glove.
 
 ---
 
+# ANCAP Rescue App
+
+![width:512px float-right](img/ancap-download-qr.png)
+
+Free app for IOS and Android provides First Responders with colour-coded illustrations highlighting the location of
+vehicle features such as:
+
+- Batteries (Low and High Voltage)
+- Airbag inflators
+- Seatbelt pre-tensioners
+- Fuel tanks
+
+<!--
+We recommend every first responder downloads and has it available, even if no rescue is required.
+-->
+
+---
+
 # Primary Search and Size Up
 
 - Initial Scene Size Up
   - Inner search – within 5m of scene, including vehicles
   - Outer search – up to 30m
-- DO NOT Disconnect Batteries
+- **DO NOT Disconnect Batteries**
 - Monitor Electric Vehicle (EV) Batteries with TIC
 
 ---
@@ -208,16 +210,19 @@ All first responders should Double Glove.
 
 ---
 
-# Incident Management
+# SitReps
 
-- Provide SitRep to FireComm for Ambulance and Rescue:
-  - Patient Details
-    - Number of Patients
-    - Age, Sex, Breathing Status, and LOC
-  - Mechanism of Impact
-  - Method of Entrapment
-  - Vehicle Type(s)
-    - Especially for unusual/exotic or alternate fuel vehicles (EV or Hydrogen)
+Provide SitRep to FireComm for Ambulance and Rescue.
+
+- Patient Details
+  - Number and Location of Patients
+  - Age, Sex, Breathing Status, and LOC
+- Mechanism of Impact
+  - Single or Multiple Vehicles
+  - Head-on, Side Impact, Roll Over etc
+- Method of Entrapment
+- Vehicle Type(s)
+  - Especially for unusual/exotic or alternate fuel vehicles (EV or Hydrogen)
 
 <!--
 - Important to us for crew tasking and resource planning:
@@ -226,17 +231,6 @@ All first responders should Double Glove.
 - Important to AV:
   - They may expedite HEMS response based on your assessment
 -->
-
----
-
-# Rescue Arrival
-
-- Direct Rescue to reserved parking
-- Ensure your OIC is clearly identified
-- Provide briefing to Rescue Commander:
-  - Situation and IEMT Introduction
-  - Any tasks already completed
-- Rescue Operators may go direct to accident vehicle(s) for extrication assessment and stabilisation
 
 ---
 
@@ -270,6 +264,18 @@ Key phase that must be used is:
 - Stabilisation of Vehicles for Scene Safety
 - _“Moditech”_ for Vehicle Data
   - More comprehensive than ANCAP.
+
+---
+
+# Rescue Arrival
+
+- Direct us to designated parking
+- Ensure your OIC is clearly identified
+- Provide briefing to Rescue Commander:
+  - IEMT Introduction
+  - Situation Summary
+  - Any tasks already completed
+- Rescue Operators may go direct to accident vehicle(s) for extrication assessment and stabilisation
 
 ---
 
