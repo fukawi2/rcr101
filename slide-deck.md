@@ -15,6 +15,7 @@ style: |
 
 <!-- _paginate: skip -->
 <!-- _header: '' -->
+<!-- _footer: https://wandincfa.com.au/rcr101 -->
 <!-- _class: centered -->
 
 ![bg contain opacity:.15](img/wandin-logo.png)
@@ -24,8 +25,6 @@ style: |
 # RCR Awareness
 
 ### THIS PRESENTATION DOES NOT CONTAIN GRAPHIC MATERIAL
-
-https://wandincfa.com.au/rcr101
 
 ---
 
