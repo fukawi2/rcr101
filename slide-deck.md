@@ -57,6 +57,18 @@ style: |
 
 ---
 
+# What We Do
+
+- **Road Crash Rescue**
+  - Extrication
+  - First Aid + Advanced Resuscitation
+  - Body Retrieval
+- High Angle Rope Rescue: `ROPE13`
+
+We DO NOT do: _Animal Rescue, Water Rescue, Building Collapse, Trench Rescue_
+
+---
+
 # Road Crash Rescue Arrangements Victoria
 
 - Governing policy for RCR in Victoria under EMV
