@@ -222,9 +222,23 @@ We recommend every first responder downloads and has it available, even if no re
 
 ---
 
-# SitReps
+# Communications
 
 Provide SitRep to FireComm for Ambulance and Rescue.
+
+Use RMR fireground channel for additional details and discussion with Rescue.
+
+<!--
+- Important to us for crew tasking and resource planning:
+  - Do we need a second rescue?
+  - Should we cancel our Rescue Support?
+- Important to AV:
+  - They may expedite HEMS response based on your assessment
+-->
+
+---
+
+# SitRep Details
 
 - Patient Details
   - Number and Location of Patients
@@ -235,14 +249,6 @@ Provide SitRep to FireComm for Ambulance and Rescue.
 - Method of Entrapment
 - Vehicle Type(s)
   - Especially for unusual/exotic or alternate fuel vehicles (EV or Hydrogen)
-
-<!--
-- Important to us for crew tasking and resource planning:
-  - Do we need a second rescue?
-  - Should we cancel our Rescue Support?
-- Important to AV:
-  - They may expedite HEMS response based on your assessment
--->
 
 ---
 
