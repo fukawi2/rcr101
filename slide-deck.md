@@ -356,6 +356,16 @@ Available Fire Brigade crew can stand in the Personnel Area to be tasked by Resc
 
 ---
 
+# Fire Brigade Top 5
+
+1. **Scene Sizeup** - Hazard Management
+1. **First Aid** - if possible
+1. **Fire Protection** - Charged Line & Dry Chem Extinguisher
+1. **Establish IEMT** - with other ESOs
+1. **Monitor Fireground** - Talk to Rescue
+
+---
+
 # Our Goal
 
 ## Positive Patient Outcomes
