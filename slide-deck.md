@@ -378,6 +378,9 @@ Available Fire Brigade crew can stand in the Personnel Area to be tasked by Resc
 
 https://wandincfa.com.au/rcr101
 
+
+<!-- _footer: Copyright © 2025 Phillip Smith, licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a> -->
+
 <!--
 - Vehicle/Equipment Show'n'Tell:
   - Split into fire brigade members into smaller groups
