@@ -276,7 +276,7 @@ Key phase that must be used is:
 # Reasons to continue Rescue Response
 
 - Medical Equipment & Crew:
-  - First Aid _(upgrading to Trauma Kit in 2025)_
+  - First Aid, including Trauma Kit
   - Resuscitation Equipment _(O<sup>2</sup>, Defib, etc)_
 - EV Safety Plug
 - Stabilisation of Vehicles for Scene Safety
