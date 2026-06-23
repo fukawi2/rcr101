@@ -256,6 +256,8 @@ Use RMR fireground channel for additional details and discussion with Rescue.
 
 - **Do not cancel rescue until _all patients are out of the vehicle_**
 
+- We cannot accept a cancel while the patient is still in the vehicle/trapped.
+
 - Your patient may be out, but can paramedics get them to the ambulance?
 - We may continue Code 3 at the discretion of the Rescue Commander
 
