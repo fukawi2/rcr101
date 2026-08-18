@@ -1,6 +1,6 @@
 ---
-title: RCR Awareness - Wandin Rescue 2025
-header: Wandin Rescue &mdash; RCR Awareness 2025
+title: RCR Awareness - Wandin Rescue 2026
+header: Wandin Rescue &mdash; RCR Awareness 2026
 paginate: true
 style: |
   img[alt~="float-right"] { float: right; }
@@ -20,7 +20,7 @@ style: |
 
 ![bg contain opacity:.15](img/wandin-logo.png)
 
-## Wandin Rescue 2025
+## Wandin Rescue 2026
 
 # RCR Awareness
 
@@ -381,7 +381,7 @@ Available Fire Brigade crew can stand in the Personnel Area to be tasked by Resc
 https://wandincfa.com.au/rcr101
 
 
-<!-- _footer: Copyright © 2025 Phillip Smith, licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a> -->
+<!-- _footer: Copyright © 2026 Phillip Smith, licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a> -->
 
 <!--
 - Vehicle/Equipment Show'n'Tell:
