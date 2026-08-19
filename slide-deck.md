@@ -83,6 +83,8 @@ We DO NOT do: _Animal Rescue, Water Rescue, Building Collapse, Trench Rescue_
 
 <!-- _header: Road Crash Rescue Arrangements Victoria -->
 
+# RCR Principal Provider
+
 - Wandin is a _“Principal Rescue Provider”_
   - _“Support Rescue Providers”_ are starting to come online.
   - FRV and CFA Pumpers with basic rescue equipment.
@@ -93,6 +95,8 @@ We DO NOT do: _Animal Rescue, Water Rescue, Building Collapse, Trench Rescue_
 
 <!-- _header: Support RCR Providers -->
 
+# RCR Support Providers
+
 - FRV:
   - Station 26 (Croydon)
   - Station 84 (South Warrandyte)
@@ -102,6 +106,8 @@ We DO NOT do: _Animal Rescue, Water Rescue, Building Collapse, Trench Rescue_
 ---
 
 <!-- _header: Support RCR Providers -->
+
+# RCR Support Provider Role
 
 - _Support Rescue Providers_ can:
   - Provide initial first aid to patient(s).
