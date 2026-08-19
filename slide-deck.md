@@ -52,8 +52,8 @@ style: |
   - Possibly the first Rescue Applicance in the state.
   - Replaced twice through community funding.
   - Current ‘Medium’ Rescue provided by CFA in 2011.
-- Approximately 20 qualified Rescue Operators.
-- Unit accreditation every 4 years.
+- Approximately 22 qualified Rescue Operators.
+- Unit accreditation for TAC every 3 years.
 
 ---
 
@@ -76,6 +76,7 @@ We DO NOT do: _Animal Rescue, Water Rescue, Building Collapse, Trench Rescue_
   - FRV
   - SES
   - Independent providers (_Echuca Moama_ and _Shepparton_)
+- Relates to and references SEMP
 - Current version is December 2023
 
 ---
@@ -83,12 +84,33 @@ We DO NOT do: _Animal Rescue, Water Rescue, Building Collapse, Trench Rescue_
 <!-- _header: Road Crash Rescue Arrangements Victoria -->
 
 - Wandin is a _“Principal Rescue Provider”_
-  - Pumper Rescues (eg, FRV) are _“Support Rescue Providers”_
-- _Support Rescue Providers_ can only effect rescue:
-  - For vehicle that is on its wheels; and
-  - Where AV triage the patient as time-critical
+  - _“Support Rescue Providers”_ are starting to come online.
+  - FRV and CFA Pumpers with basic rescue equipment.
 - We are not a Fire Brigade
   - Ignore the CFA badges on our trucks and uniform.
+
+---
+
+<!-- _header: Support RCR Providers -->
+
+- FRV:
+  - Station 26 (Croydon)
+  - Station 84 (South Warrandyte)
+  - Station 85 (Boronia)
+  - Station 86 (Rowville)
+
+---
+
+<!-- _header: Support RCR Providers -->
+
+- _Support Rescue Providers_ can:
+  - Provide initial first aid to patient(s).
+  - Make the scene and vehicles safe and ready for rescue activities.
+  - Assume Rescue Commander role until Principal Provider arrives.
+  - Operates under the direction of Principal Provider Rescue Commander.
+- Can only effect rescue:
+  - For vehicle that is on its wheels; and
+  - Where AV triage the patient as time-critical, or other extreme non-medical risk exists.
 
 ---
 
